@@ -2,7 +2,9 @@
 
 - Currently, I am working as a backend developer at Autowini. My job is to develop product recommendations for users and countries.
 
-- I love my job because I’m learning new things and facing new challenges every day. I build applications capable of delivering a wide array of personalized experiences, including specific product recommendations, personalized product re-ranking, and customized direct marketing.
+- I love my job
+- I’m learning new things and facing new challenges every day. 
+- I build applications capable of delivering a wide array of personalized experiences, including specific product recommendations, personalized product re-ranking, and customized direct marketing.
 - I’m a positive person with a can-do attitude.
 ---
 [![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileykim2014)](https://github.com/anuraghazra/github-readme-stats)
