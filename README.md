@@ -2,8 +2,7 @@
 
 - Currently, I am working as a backend developer at Autowini. My job is to develop product recommendations for users and countries.
 
-- I love my job
-- I’m learning new things and facing new challenges every day. 
+- I love my job. I’m learning new things and facing new challenges every day. 
 - I build applications capable of delivering a wide array of personalized experiences, including specific product recommendations, personalized product re-ranking, and customized direct marketing.
 - I’m a positive person with a can-do attitude.
 ---
