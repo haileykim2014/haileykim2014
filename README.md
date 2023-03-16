@@ -1,7 +1,5 @@
 # Hi there, I'm movie - Younghwa Kim <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-## I'm a Backend Developer
-
 - Currently, I am working as a backend developer at Autowini. My job is to develop product recommendations for users and countries.
 
 - I love my job because I’m learning new things and facing new challenges every day. I build applications capable of delivering a wide array of personalized experiences, including specific product recommendations, personalized product re-ranking, and customized direct marketing.
