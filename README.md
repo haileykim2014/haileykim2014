@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Movie%20Kim&fontSize=90)
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Movie's Dev Card"/></a>
  
  [![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileykim2014)](https://github.com/anuraghazra/github-readme-stats)
 
