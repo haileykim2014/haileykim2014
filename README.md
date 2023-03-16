@@ -2,35 +2,13 @@
 
 ## I'm a Backend Developer
 
+Currently, I am working as a backend developer at Autowini. My job is to develop product recommendations for users and countries.
+
+I love my job because I’m learning new things and facing new challenges every day. I build applications capable of delivering a wide array of personalized experiences, including specific product recommendations, personalized product re-ranking, and customized direct marketing.
+
+
 [![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileykim2014)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2026%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Chicago
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
- Last Updated on 15/03/2023 18:40:37 UTC
-<!--END_SECTION:waka-->
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://zzsza.github.io/](https://haileykim2014.tistory.com/))](https://haileykim2014.tistory.com/)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moviekim/)](https://www.linkedin.com/in/moviekim/)
