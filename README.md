@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Movie%20Kim&fontSize=90)
+ ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Movie%20Kim&fontSize=90)
  [![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=haileykim2014)](https://github.com/anuraghazra/github-readme-stats)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://zzsza.github.io/](https://haileykim2014.tistory.com/))](https://haileykim2014.tistory.com/)
