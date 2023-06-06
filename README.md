@@ -7,7 +7,7 @@
 - I’m a positive person with a can-do attitude.
 ---
 
-| <a href="https://github.com/haileykim2014/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haileykim2014&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Younghwa's github stats" /></a> | <a href="https://github.com/haileykim2014/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileykim2014&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=haileykim2014&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Younghwa's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileykim2014&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 
