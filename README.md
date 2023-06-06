@@ -6,8 +6,7 @@
 - I build applications capable of delivering a wide array of personalized experiences, including specific product recommendations, personalized product re-ranking, and customized direct marketing.
 - I’m a positive person with a can-do attitude.
 ---
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=haileykim2014&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Younghwa's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileykim2014&layout=compact&theme=buefy&hide_border=true" /> |
+| ![Younghwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=haileykim2014&show_icons=true&theme=buefy&hide_border=true) |  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haileykim2014&theme=buefy&hide_border=true&line_height=40&hide=css"/> </a> |
 | ------------- | ------------- |
 
 
