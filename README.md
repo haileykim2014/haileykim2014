@@ -6,7 +6,18 @@
 - I build applications capable of delivering a wide array of personalized experiences, including specific product recommendations, personalized product re-ranking, and customized direct marketing.
 - I’m a positive person with a can-do attitude.
 ---
-![Hailey's GitHub stats](https://github-readme-stats.vercel.app/api?username=haileykim2014&show_icons=true&range=all_time)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=haileykim2014&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=haileykim2014&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=haileykim2014&show_icons=true" />
+</picture>
+
 
 ---
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://zzsza.github.io/](https://haileykim2014.tistory.com/))](https://haileykim2014.tistory.com/)
